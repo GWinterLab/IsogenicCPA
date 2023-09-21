@@ -1,6 +1,8 @@
 # Isogenic CPA
 The isogenic Cell Painting Assay pipeline uses cell morphological features from isogenic cell lines treated with the same compounds. The computational pipeline and tools provided here can be used to predict and characterize multi-specific drugs by comparing the morphological features changed across isogenic cell lines expressing different levels of a presenter protein. This pipeline was used in the manuscript titled "Discovery of molecular glue degraders via isogenic morphological profiling" for the presenter protein, CRBN.
 
+Check out the pre-print (PLACEHOLDER).
+
 <img src="https://github.com/TangentialAlmond/IsogenicCPA/assets/91612461/cc816096-a9db-4039-b4fa-4f924fefb7a6" width="500">
 
 ## 0| Virtual environment requirements
