@@ -1,0 +1,56 @@
+name: juliaEnvironment
+channels:
+  - bioconda
+  - r
+  - defaults
+  - conda-forge
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - arpack=3.7.0=hdefa2d7_2
+  - bzip2=1.0.8=h7b6447c_0
+  - c-ares=1.19.0=h5eee18b_0
+  - ca-certificates=2023.01.10=h06a4308_0
+  - curl=7.82.0=h7f8727e_0
+  - expat=2.4.9=h6a678d5_0
+  - gdbm=1.18=hd4cb3f1_4
+  - git=2.23.0=pl526hacde149_0
+  - gmp=6.2.1=h295c915_3
+  - julia=1.7.2=h35b96e5_1
+  - krb5=1.19.4=h568e23c_0
+  - libblas=3.9.0=16_linux64_openblas
+  - libcblas=3.9.0=16_linux64_openblas
+  - libcurl=7.82.0=h0b77cf5_0
+  - libedit=3.1.20221030=h5eee18b_0
+  - libev=4.33=h7f8727e_1
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgfortran-ng=11.2.0=h00389a5_1
+  - libgfortran5=11.2.0=h1234567_1
+  - libgit2=1.4.3=h6529ace_0
+  - libgomp=11.2.0=h1234567_1
+  - liblapack=3.9.0=16_linux64_openblas
+  - libnghttp2=1.47.0=h727a467_0
+  - libopenblas=0.3.21=h043d6bf_0
+  - libopenblas-ilp64=0.3.20=pthreads_h44c56fb_0
+  - libssh2=1.10.0=h8f2d780_0
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - libunwind=1.6.2=h9c3ff4c_0
+  - libutf8proc=2.7.0=h7f98852_0
+  - libzlib=1.2.11=h166bdaf_1014
+  - mbedtls=3.1.0=h9c3ff4c_1
+  - metis=5.1.0=hf484d3e_4
+  - mpfr=4.1.0=h9202a9a_1
+  - ncurses=6.4=h6a678d5_0
+  - openblas-ilp64=0.3.20=pthreads_h3d04fff_0
+  - openlibm=0.7.5=h7f98852_0
+  - openssl=1.1.1t=h7f8727e_0
+  - p7zip=15.09=h2d50403_4
+  - pcre=8.45=h295c915_0
+  - pcre2=10.37=he7ceb23_1
+  - perl=5.34.0=h5eee18b_2
+  - readline=8.2=h5eee18b_0
+  - suitesparse=5.10.1=h9e50725_1
+  - tbb=2021.7.0=hdb19cb5_0
+  - tk=8.6.11=h1ccaba5_0
+  - zlib=1.2.11=h166bdaf_1014
+prefix: /home/ang/miniconda3/envs/juliaEnvironment
