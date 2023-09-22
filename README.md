@@ -3,7 +3,7 @@ The isogenic Cell Painting Assay pipeline uses cell morphological features from 
 
 Check out the pre-print (PLACEHOLDER).
 
-<img src="https://github.com/TangentialAlmond/IsogenicCPA/assets/91612461/cc816096-a9db-4039-b4fa-4f924fefb7a6" width="500">
+<img src="https://github.com/GWinterLab/IsogenicCPA/assets/91612461/15eaf164-3c57-478f-97b3-38b43e3c7a77" width="500">
 
 ## 0| Virtual environment requirements
 The files here use multiple virtual environments. The requirements for setting up these environments can be found in [0_virtual_environment_requirements](https://github.com/GWinterLab/IsogenicCPA/tree/3f7198ac1248695ab301744906474c780cae933f/0_virtual_environments_required).
